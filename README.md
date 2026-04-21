@@ -1,4 +1,4 @@
-# claude-env
+# claude-env-ig-ingest
 
 A personalized Claude Code environment system. Not a plugin — a framework for making Claude progressively more calibrated to how you work.
 
